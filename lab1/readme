@@ -1,1 +1,16 @@
-Advanced compilation principles
+author:
+	孟冠亚
+	mengguanya
+student id:
+	2001213044
+data:
+	2021/1/2
+how to run:
+you can run the compiler by  running the three scripts:
+./compile.sh
+./run.sh
+./test.sh
+/********************************/
+compile.sh -> compiling the source code to exe
+run.sh     -> tranlating the 3-adress-code to C
+test.sh    -> compiling the new_c and then exe
